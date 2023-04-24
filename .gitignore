@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# custom
+merged_output.pdf
+
 # C extensions
 *.so
 
